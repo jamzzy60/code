@@ -98,3 +98,5 @@ if __name__ == "__main__":
     result = trapezoidal_rule(f, a, b, n)
     
     print(f"The approximate integral of sin(x) from {a} to {b} is {result:.6f}")
+####3333
+
